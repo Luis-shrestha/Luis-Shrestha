@@ -1,11 +1,6 @@
 # LUIS SHRESTHA
 **Mobile Application Developer | Flutter & React Native Specialist**
 
-📍 Dharmasthali, Kathmandu | 📞 +977 9803187688 | ✉️ luisshrestha2002@gmail.com  
-🔗 [LinkedIn](#) | 💻 [GitHub](#)
-
----
-
 ## PROFESSIONAL SUMMARY
 
 Results-driven Mobile Application Developer with 2+ years of experience specializing in Flutter and React Native development. Proven track record of delivering cross-platform applications for ERP systems, mobile banking, and enterprise solutions. Strong expertise in state management (BLoC, Redux), API integration, and performance optimization. Committed to writing clean, maintainable code and staying current with emerging technologies.
